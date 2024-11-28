@@ -14,4 +14,4 @@ jobs:
     uses: scality/workflows/.github/workflows/docker-build.yaml@v2
     with:
       name: gh-actions-exporter
-      namespace: scality
+      namespace: lukas-mertens
